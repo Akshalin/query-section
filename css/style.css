@@ -1,0 +1,24 @@
+body{
+    padding:0px;
+    margin: 0px;
+}
+/*css style for Query section*/
+.section{
+    width: 500px;
+    margin:40px 450px;
+}
+.container{
+    border: 1px solid black;
+    padding: 20px;
+}
+h4{
+    padding: 10px 15px;
+}
+p{
+    text-align: justify;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    padding: 20px 0px;
+}
